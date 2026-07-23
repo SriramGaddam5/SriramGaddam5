@@ -6,7 +6,7 @@
 
 I like developing video games and since programming and design often go hand in hand when developing video games, I really like the combination of art and programming. Aside from programming, I enjoy drawing, painting, and playing my electric guitar. I believe that the best way to learn is to build something.
 
-I'm current a student at **Texas A&M University**, studying **Visualization** with experience with both software, frontend, and game development. On the **software side**, I've used Arduino, Agile, AWS, C#, C++, CSS, Docker, Firebase, Git, HLSL, HTML, Java, Kotlin, JavaScript (Node.js, React, TypeScript), Jenkins, Jira, Linux, LLMs, MongoDB, MySQL, Plastic SCM, Perforce, PostgreSQL, Python, PyTorch, REST API, Ruby, and Swift. On the more **creative side**, I've used After Effects, Blueprints, Figma, Godot, Houdini, Illustrator, InDesign, Maya, Renderman, Substance, Photoshop, Unreal, Unity, and ZBrush.
+I graduated from **Texas A&M University** with a BS in **Visualization** with experience with both software, frontend, and game development. On the **software side**, I've used Arduino, Agile, AWS, C#, C++, CSS, Docker, Firebase, Git, HLSL, HTML, Java, Kotlin, JavaScript (Node.js, React, TypeScript), Jenkins, Jira, Linux, LLMs, MongoDB, MySQL, Plastic SCM, Perforce, PostgreSQL, Python, PyTorch, REST API, Ruby, and Swift. On the more **creative side**, I've used After Effects, Blueprints, Figma, Godot, Houdini, Illustrator, InDesign, Maya, Renderman, Substance, Photoshop, Unreal, Unity, and ZBrush.
 
 ## Work Experience
 - **Nike** - 2025 Software Engineer Intern
